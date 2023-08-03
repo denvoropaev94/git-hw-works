@@ -66,8 +66,8 @@ def edit_note_data():
     return edit
 
 
-def export_data():
-    return int(input("Введите 1 для экспорта в формате json или 2 для экспорта в формате csv: "))
+# def export_data():
+#     return int(input("Введите 1 для экспорта в формате json или 2 для экспорта в формате csv: "))
 
 
 def end_work():
